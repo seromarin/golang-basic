@@ -12,7 +12,7 @@ func main() {
 	a := 10.
 	var b float64 = 3
 	fmt.Println(a / b)
-	
+
 	var c int = 10
 	d := 3
 	fmt.Println(c / d)
