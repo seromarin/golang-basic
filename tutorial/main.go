@@ -27,6 +27,17 @@ func main() {
 
 	While()
 
+	// Conditionals
+	fmt.Println(Sqrt(2), Sqrt(-4))
+	fmt.Println(
+		Pow(3, 2, 10),
+		Pow(3, 3, 20),
+	)
+	fmt.Println(
+		Pow2(3, 2, 10),
+		Pow2(3, 3, 20),
+	)
+
 	fmt.Println("<-------------->")
 	fmt.Println("Bye bye, tutorial")
 }
