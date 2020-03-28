@@ -38,6 +38,10 @@ func main() {
 		Pow2(3, 3, 20),
 	)
 
+	Switch1()
+	Switch2()
+	SwitchNotCondition()
+
 	fmt.Println("<-------------->")
 	fmt.Println("Bye bye, tutorial")
 }
