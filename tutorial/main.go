@@ -21,8 +21,11 @@ func main() {
 
 	fmt.Printf("El valor de PI es %v\n", Pi)
 
+	// Cycles in Golang
 	For1()
 	For2()
+
+	While()
 
 	fmt.Println("<-------------->")
 	fmt.Println("Bye bye, tutorial")
