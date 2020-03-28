@@ -21,6 +21,9 @@ func main() {
 
 	fmt.Printf("El valor de PI es %v\n", Pi)
 
+	For1()
+	For2()
+
 	fmt.Println("<-------------->")
 	fmt.Println("Bye bye, tutorial")
 }
